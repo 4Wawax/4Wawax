@@ -1,56 +1,60 @@
 <div align="center">
 
-[🇬🇧 English](README.md) · [🇫🇷 Français](README.fr.md)
+[🇫🇷 Français](README.md) · [🇬🇧 English](README.en.md)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-en-dark.svg"><img src="assets/banner-en-light.svg" alt="4Wawax — FOUNDER · COMMUNICATION, DESIGN AND DEVELOPMENT" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-fr-dark.svg"><img src="assets/banner-fr-light.svg" alt="4Wawax — FONDATEUR · COMMUNICATION, DESIGN ET DÉVELOPPEMENT" width="100%"></picture>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_the_server-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
-[![Website](https://img.shields.io/badge/Website-warelo.fr-e9e9e9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c0c0c)](https://warelo.fr)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre_le_serveur-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
+[![Site](https://img.shields.io/badge/Site-warelo.fr-e9e9e9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c0c0c)](https://warelo.fr)
 [![Email](https://img.shields.io/badge/Email-contact@warelo.fr-e9e9e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0c0c)](mailto:contact@warelo.fr)
 
 </div>
 
-I'm **4Wawax**, founder of **Warelo Studio**. I lead the creation and organisation of the studio: **brand identities, Discord bots and websites**.
+Je suis **4Wawax**, fondateur de **Warelo Studio**. Je pilote la création et l'organisation du studio : **identités, bots Discord et sites web**.
 
-> I'm the link between your idea and its delivery — **one single point of contact and fast replies**, from the first message to the final result.
+> Je fais le lien entre ton idée et sa réalisation — **un seul interlocuteur et des réponses rapides**, du premier message au résultat final.
 
-`Communication` `Design` `Management & organisation` `Discord bots` `Websites`
+`Communication` `Design` `Gestion et organisation` `Bots Discord` `Sites web`
 
-## 01 — Brands
+## 01 — Marques
 
-Our brands, our testing ground.
+Nos marques, nos terrains d'essai.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/brands-en-dark.svg"><img src="assets/brands-en-light.svg" alt="01 — Brands" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/brands-fr-dark.svg"><img src="assets/brands-fr-light.svg" alt="01 — Marques" width="100%"></picture>
 
 ## 02 — Expertise
 
-One studio for your whole project. <sub>● = what I lead personally.</sub>
+Un seul studio pour tout ton projet. <sub>● = ce que je pilote personnellement.</sub>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expertise-en-dark.svg"><img src="assets/expertise-en-light.svg" alt="02 — Expertise" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expertise-fr-dark.svg"><img src="assets/expertise-fr-light.svg" alt="02 — Expertise" width="100%"></picture>
 
-## 03 — How we work
+## 03 — Comment on travaille
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/process-en-dark.svg"><img src="assets/process-en-light.svg" alt="03 — How we work" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/process-fr-dark.svg"><img src="assets/process-fr-light.svg" alt="03 — Comment on travaille" width="100%"></picture>
 
-## Tech & tools
+## Mon stack
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,figma,ps,ae,pr&perline=12&theme=dark"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,figma,ps,ae,pr&perline=12&theme=light" alt="Tech & tools"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-fr-dark.svg"><img src="assets/stack-fr-light.svg" alt="Mon stack" width="100%"></picture>
 
-`TypeScript` `JavaScript` `Node.js` `discord.js` `React` · `Figma` `Photoshop` `After Effects` `Premiere Pro`
+## Mon univers
 
-## 04 — Team
+- **Warelo Studio** — le studio que je monte avec 4Warris.
+- **4W Suprématie** — ma communauté Discord et mon serveur Minecraft.
+- *Créer, livrer, recommencer.*
+
+## 04 — Équipe
 
 | | |
 |---|---|
-| **4Wawax** | Founder · communication, design and development |
-| **4Warris** | Founder · developer and software engineer |
-| **Vestii** | Staff · advice and creative direction |
+| **4Wawax** | Fondateur · communication, design et développement |
+| **4Warris** | Fondateur · développeur et ingénieur logiciel |
+| **Vestii** | Staff · conseil et direction créative |
 
 ## 05 — Contact
 
-Have an idea? Describe your project in a few lines — you'll get a quick answer, no jargon.
+Une idée ? Décris ton projet en quelques lignes — tu auras une réponse rapide, sans jargon.
 
-[![Discord](https://img.shields.io/badge/Discord-Join_the_server-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre_le_serveur-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
 [![Email](https://img.shields.io/badge/Email-contact@warelo.fr-e9e9e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0c0c)](mailto:contact@warelo.fr)
 
 <div align="center">
