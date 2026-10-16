@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="How we work: you share, I scope, I build, delivery">
+  <defs><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6ea8ff"/><stop offset="0.5" stop-color="#a98bff"/><stop offset="1" stop-color="#ff7ad9"/></linearGradient></defs>
+  <line x1="150" y1="55" x2="1050" y2="55" stroke="url(#l)" stroke-width="3" stroke-dasharray="8 10"><animate attributeName="stroke-dashoffset" from="0" to="-72" dur="3s" repeatCount="indefinite"/></line>
+  <circle cx="150" cy="55" r="30" fill="#151a2e" stroke="url(#l)" stroke-width="3"/>
+  <text x="150" y="62" text-anchor="middle" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-weight="700" font-size="20" fill="#ffffff">01</text>
+  <text x="150" y="116" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="20" fill="#ffffff">You share</text>
+  <text x="150" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93b8">your idea</text>
+  <circle cx="450" cy="55" r="30" fill="#151a2e" stroke="url(#l)" stroke-width="3"/>
+  <text x="450" y="62" text-anchor="middle" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-weight="700" font-size="20" fill="#ffffff">02</text>
+  <text x="450" y="116" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="20" fill="#ffffff">I scope</text>
+  <text x="450" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93b8">fast and clear</text>
+  <circle cx="750" cy="55" r="30" fill="#151a2e" stroke="url(#l)" stroke-width="3"/>
+  <text x="750" y="62" text-anchor="middle" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-weight="700" font-size="20" fill="#ffffff">03</text>
+  <text x="750" y="116" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="20" fill="#ffffff">I build</text>
+  <text x="750" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93b8">design + code</text>
+  <circle cx="1050" cy="55" r="30" fill="#151a2e" stroke="url(#l)" stroke-width="3"/>
+  <text x="1050" y="62" text-anchor="middle" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-weight="700" font-size="20" fill="#ffffff">04</text>
+  <text x="1050" y="116" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="20" fill="#ffffff">Delivery</text>
+  <text x="1050" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b93b8">tested result</text>
+</svg>

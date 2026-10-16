@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 230" width="380" height="230" role="img" aria-label="Identities">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7ad9"/><stop offset="1" stop-color="#a98bff"/></linearGradient>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151a2e"/><stop offset="1" stop-color="#0d1120"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="376" height="226" rx="20" fill="url(#f)" stroke="url(#b)" stroke-width="2"/>
+  <rect x="2" y="2" width="376" height="6" rx="3" fill="url(#b)"><animate attributeName="opacity" values="1;0.35;1" dur="4s" repeatCount="indefinite"/></rect>
+  <circle cx="58" cy="76" r="34" fill="url(#b)" opacity="0.18"/>
+  <text x="58" y="90" text-anchor="middle" font-size="38">🎨</text>
+  <text x="108" y="72" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="26" fill="#ffffff">Identities</text>
+  <text x="108" y="96" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="12" letter-spacing="2" fill="#ff7ad9">BRANDING</text>
+  <text x="30" y="150" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b8c0e0">Logo, colours, typography</text>
+  <text x="30" y="176" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b8c0e0">and a clear visual guideline.</text>
+  <text x="30" y="207" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="12" fill="#6b7399">// warelo studio</text>
+</svg>
