@@ -4,12 +4,12 @@
 <clipPath id="r"><rect width="1200" height="400" rx="26"/></clipPath>
 <g clip-path="url(#r)">
   <rect width="1200" height="400" fill="#0c0c0c"/><line x1="0" y1="0" x2="0" y2="400" stroke="#e9e9e91a"/><line x1="133" y1="0" x2="133" y2="400" stroke="#e9e9e91a"/><line x1="266" y1="0" x2="266" y2="400" stroke="#e9e9e91a"/><line x1="399" y1="0" x2="399" y2="400" stroke="#e9e9e91a"/><line x1="532" y1="0" x2="532" y2="400" stroke="#e9e9e91a"/><line x1="665" y1="0" x2="665" y2="400" stroke="#e9e9e91a"/><line x1="798" y1="0" x2="798" y2="400" stroke="#e9e9e91a"/><line x1="931" y1="0" x2="931" y2="400" stroke="#e9e9e91a"/><line x1="1064" y1="0" x2="1064" y2="400" stroke="#e9e9e91a"/><line x1="1197" y1="0" x2="1197" y2="400" stroke="#e9e9e91a"/>
-  <text x="1140" y="372" text-anchor="end" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="3" fill="#777777">WARELO STUDIO</text>
+  <text x="1140" y="372" text-anchor="end" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="3" fill="#777777">WARELO STUDIO</text>
   <circle cx="64" cy="64" r="4" fill="#e9e9e9"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
-  <text x="82" y="68" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="13" letter-spacing="3" fill="#b3b3b3">STUDIO CRÉATIF ET TECHNIQUE · OUVERT AUX NOUVEAUX PROJETS</text>
+  <text x="82" y="68" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="16" letter-spacing="3" fill="#b3b3b3">STUDIO CRÉATIF ET TECHNIQUE · OUVERT AUX NOUVEAUX PROJETS</text>
   <text x="56" y="205" font-family="PJS,'Plus Jakarta Sans','Segoe UI',Arial,sans-serif" font-weight="800" font-size="132" letter-spacing="-5" fill="#e9e9e9">4Wawax</text>
   <text x="60" y="268" font-family="PJS,'Plus Jakarta Sans','Segoe UI',Arial,sans-serif" font-weight="700" font-size="36" letter-spacing="-0.5" fill="#b3b3b3">Du code. Du design. Du caractère.</text>
-  <text x="60" y="336" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#777777">FONDATEUR · COMMUNICATION, DESIGN ET DÉVELOPPEMENT</text>
+  <text x="60" y="336" font-family="JBM,'JetBrains Mono',Consolas,monospace" font-size="16" letter-spacing="2.5" fill="#b3b3b3">FONDATEUR · COMMUNICATION, DESIGN ET DÉVELOPPEMENT</text>
   
 <g transform="translate(985 190) scale(1.15)">
   <circle r="86" fill="none" stroke="#777777" stroke-width="1.2" stroke-dasharray="2 5"/>
