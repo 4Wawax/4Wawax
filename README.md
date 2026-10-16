@@ -2,72 +2,57 @@
 
 [🇬🇧 English](README.md) · [🇫🇷 Français](README.fr.md)
 
-<img src="assets/banner.svg" alt="4Wawax — Founder, communication, design, development" width="100%"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-en-dark.svg"><img src="assets/banner-en-light.svg" alt="4Wawax — FOUNDER · COMMUNICATION, DESIGN AND DEVELOPMENT" width="100%"></picture>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PgChvpfgBB)
-[![Website](https://img.shields.io/badge/Website-4wawax.fr-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://4wawax.fr)
-[![Email](https://img.shields.io/badge/Email-contact@warelo.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@warelo.fr)
-![Status](https://img.shields.io/badge/status-open_for_projects-2ea44f?style=for-the-badge)
+[![Discord](https://img.shields.io/badge/Discord-Join_the_server-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
+[![Website](https://img.shields.io/badge/Website-warelo.fr-e9e9e9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c0c0c)](https://warelo.fr)
+[![Email](https://img.shields.io/badge/Email-contact@warelo.fr-e9e9e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0c0c)](mailto:contact@warelo.fr)
 
 </div>
 
-## 👋 About me
+I'm **4Wawax**, founder of **Warelo Studio**. I lead the creation and organisation of the studio: **brand identities, Discord bots and websites**.
 
-I'm **4Wawax**, founder of **Warelo Studio**. I handle **communication, design and development**, and I lead the creation and organisation of the studio: **brand identities, Discord bots and websites**.
+> I'm the link between your idea and its delivery — **one single point of contact and fast replies**, from the first message to the final result.
 
-> I'm the link between your idea and its delivery — **one single point of contact, fast replies**, from the first message to the final result.
+`Communication` `Design` `Management & organisation` `Discord bots` `Websites`
 
-## 🛠️ What I build
+## 01 — Brands
 
-<table>
-<tr>
-<td width="33%"><img src="assets/card-identity.svg" alt="Identities"/></td>
-<td width="33%"><img src="assets/card-bots.svg" alt="Discord bots"/></td>
-<td width="33%"><img src="assets/card-sites.svg" alt="Websites"/></td>
-</tr>
-</table>
+Our brands, our testing ground.
 
-## 🔄 How we work
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/brands-en-dark.svg"><img src="assets/brands-en-light.svg" alt="01 — Brands" width="100%"></picture>
 
-<img src="assets/process.svg" alt="You share your idea, I scope, I build, delivery" width="100%"/>
+## 02 — Expertise
 
-## 🧰 Tech & tools
+One studio for your whole project. <sub>● = what I lead personally.</sub>
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,figma,ps,ae,pr&perline=12" alt="Tech stack"/>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expertise-en-dark.svg"><img src="assets/expertise-en-light.svg" alt="02 — Expertise" width="100%"></picture>
+
+## 03 — How we work
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/process-en-dark.svg"><img src="assets/process-en-light.svg" alt="03 — How we work" width="100%"></picture>
+
+## Tech & tools
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,figma,ps,ae,pr&perline=12&theme=dark"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,figma,ps,ae,pr&perline=12&theme=light" alt="Tech & tools"></picture>
 
 `TypeScript` `JavaScript` `Node.js` `discord.js` `React` · `Figma` `Photoshop` `After Effects` `Premiere Pro`
 
-## 🚀 Projects
+## 04 — Team
 
-| Project | What it is |
+| | |
 |---|---|
-| [**4WAWAX**](https://4wawax.fr) | My activity: video, photo, design, web |
-| **Warelo Studio** | The studio: identities, Discord bots and websites |
-| **4W Suprématie** | My Discord community and Minecraft server |
+| **4Wawax** | Founder · communication, design and development |
+| **4Warris** | Founder · developer and software engineer |
+| **Vestii** | Staff · advice and creative direction |
 
-## ❓ FAQ
+## 05 — Contact
 
-<details>
-<summary><b>Who will I talk to?</b></summary>
-<br>Always me. No middlemen, so nothing gets lost between design, code and communication.
-</details>
+Have an idea? Describe your project in a few lines — you'll get a quick answer, no jargon.
 
-<details>
-<summary><b>How fast do you reply?</b></summary>
-<br>Fast. Sending a message on Discord or by email is the easiest way to get started.
-</details>
-
-<details>
-<summary><b>Can you do identity, bot and website together?</b></summary>
-<br>Yes — that's the point of the studio: one coherent result across all three.
-</details>
-
-## 📫 Let's talk
-
-Have an idea? **[Join the Discord](https://discord.gg/PgChvpfgBB)** or write to **[contact@warelo.fr](mailto:contact@warelo.fr)** — you'll get an answer quickly.
+[![Discord](https://img.shields.io/badge/Discord-Join_the_server-e9e9e9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/PgChvpfgBB)
+[![Email](https://img.shields.io/badge/Email-contact@warelo.fr-e9e9e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0c0c)](mailto:contact@warelo.fr)
 
 <div align="center">
-<sub>Create, deliver, repeat.</sub>
+<sub><code>POWERED BY WARELO STUDIO</code></sub>
 </div>
